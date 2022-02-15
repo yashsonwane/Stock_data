@@ -1,0 +1,9 @@
+pandas
+numpy
+alice-blue
+kafka-python
+pre-commit
+pandas
+numpy
+alice-blue
+pytest
